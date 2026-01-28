@@ -1,6 +1,14 @@
-# BookManager 📚
+# 📚 Sistema de Gestión de Libros Electrónicos en Go
 
-Sistema de Gestión de Libros Electrónicos desarrollado en Go.
+**Asignatura:** Programación Orientada a Objetos  
+**Estudiante:** Vianka Paredes  
 
 ## 🎯 Objetivo
-Sistema para gestionar catálogo digital de libros electrónicos con funcionalidades CRUD, búsqueda y estadísticas.
+Sistema básico para gestionar un catálogo digital de libros electrónicos implementado con programación funcional en Go.
+
+## 🚀 Características
+- ✅ CRUD completo de libros
+- ✅ Búsqueda por título/autor 
+- ✅ Estadísticas del catálogo
+- ✅ Programación funcional pura
+- ✅ Código basado en lo aprendido
