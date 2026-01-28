@@ -7,8 +7,6 @@
 Sistema básico para gestionar un catálogo digital de libros electrónicos implementado con programación funcional en Go.
 
 ## 🚀 Características
-- ✅ CRUD completo de libros
-- ✅ Búsqueda por título/autor 
-- ✅ Estadísticas del catálogo
-- ✅ Programación funcional pura
-- ✅ Código basado en lo aprendido
+- Agregar, mostrar y buscar libros
+- Calcular estadísticas básicas
+- Basado en lo aprendido}
