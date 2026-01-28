@@ -1,4 +1,3 @@
-# UIDE_virtualbooks
 # BookManager 📚
 
 Sistema de Gestión de Libros Electrónicos desarrollado en Go.
