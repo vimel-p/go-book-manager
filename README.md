@@ -9,4 +9,5 @@ Sistema básico para gestionar un catálogo digital de libros electrónicos impl
 ## 🚀 Características
 - Agregar, mostrar y buscar libros
 - Calcular estadísticas básicas
-- Basado en lo aprendido}
+- Basado en lo aprendido
+- comprar basado en el stock libros
