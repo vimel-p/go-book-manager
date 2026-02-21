@@ -1,7 +1,6 @@
 # 📚 Sistema de Gestión de Libros Electrónicos en Go
 
-**Asignatura:** Programación Orientada a Objetos  
-**Estudiante:** Vianka Paredes  
+**Asignatura:** Programación Orientada a Objetos 
 
 ## 🎯 Objetivo
 Sistema básico para gestionar un catálogo digital de libros electrónicos implementado con programación funcional en Go.
